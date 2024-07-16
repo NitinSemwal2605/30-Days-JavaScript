@@ -28,7 +28,7 @@ You can find the challenge details and sign up [here](https://courses.chaicode.c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/30-Days-JavaScript.git
+   git clone https://github.com/NitinSemwal2605/30-Days-JavaScript.git
    ```
 
 2. **Navigate to the desired day folder:**
